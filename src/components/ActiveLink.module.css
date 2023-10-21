@@ -1,0 +1,10 @@
+.link {
+  margin-right: 10px;
+  color: black;
+}
+
+.active-link {
+  color: white;
+  text-decoration: underline;
+  font-weight: bold;
+}

@@ -1,0 +1,11 @@
+.main-navbar {
+  background-color: rgb(155, 166, 171);
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.link {
+  margin-right: 20px;
+  color: black;
+  font-size: 30px;
+}
